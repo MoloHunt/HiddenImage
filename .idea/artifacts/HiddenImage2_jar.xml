@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HiddenImage2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HiddenImage2_jar</output-path>
+    <root id="archive" name="HiddenImage2.jar">
+      <element id="module-output" name="HiddenImage2" />
+    </root>
+  </artifact>
+</component>
